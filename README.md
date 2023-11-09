@@ -1,5 +1,7 @@
 # Personaje
-
+## Integrantes
+Jose Manuel Mata Hernandez
+Oscar Ramirez Sanchez
 ## Nombre del personaje
 Caballo Rey Mago
 ## Materiales utilizados
@@ -34,3 +36,13 @@ Colocar una imagen donde coloques los sensores, los actuadores, el microcontrola
 ## Base de Datos
 Colocar una imagen del modelo relacional de la base de datos (2 tablas) tabla de sensores y actuadores
 ![Imagen del modelo relacional de la base de datos](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Modelo%20Relacional%20BD.jpg?raw=true)
+
+
+## Prototipo en dibujo
+![Imagen de WhatsApp 2023-11-08 a las 22 07 55_8c0dc5de](https://github.com/18Manu/Personaje/assets/116208760/19e86bf6-5a58-429d-b311-858468d6388b)
+
+
+## Diagrama en Fritzing
+![Captura de pantalla 2023-11-08 224230](https://github.com/18Manu/Personaje/assets/116208760/144ff046-f8e1-44e6-8797-f5546fdd131a)
+
+
